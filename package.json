@@ -1,0 +1,13 @@
+{
+  "name": "styled_dom",
+  "version": "1.16.0",
+  "description": "This micro service allows you to create styled vanilla components with a different options ",
+  "main": "index.js",
+  "scripts": {
+    "login": "npm login",
+    "upload": "npm publish"
+  },
+  "keywords": ["styled components", "vanilla js", "styled elements"],
+  "author": "Farid M <razormad666@gmail.com>",
+  "license": "ISC"
+}
